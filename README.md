@@ -1,1 +1,1 @@
-# optical_quantum-_computer
+# optical_quantum_computer
